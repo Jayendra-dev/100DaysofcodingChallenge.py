@@ -12,13 +12,13 @@ Daily solving 3+ Python + DSA problems. No breaks.
 5. Today: Deep Dive on Dictionaries
 
 ### Progress
- Day 1: Basics
- Day 2: Loops  
- Day 3: Lists
- Day 4: Tuples
- Day 5: Dictionaries - In Progress
- Day 6:Project of Day6.to make todo list.
- Day7: 5 moderate problems based on  while loop.
+# Day 1: Basics
+# Day 2: Loops  
+# Day 3: Lists
+# Day 4: Tuples
+# Day 5: Dictionaries - In Progress
+# Day 6:Project of Day6.to make todo list.
+# Day7: 5 moderate problems based on  while loop.
 
 
 #BuildInPublic #100DaysOfCode #SDEJourney
