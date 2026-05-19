@@ -17,8 +17,8 @@ Daily solving 3+ Python + DSA problems. No breaks.
  Day 3: Lists
  Day 4: Tuples
  Day 5: Dictionaries - In Progress
- Day 6:Projct of Day6.
+ Day 6:Project of Day6.to make todo list.
  Day7: 5 moderate problems based on  while loop.
 
 
-#BuildInPublic #90DaysOfCode #SDEJourney
+#BuildInPublic #100DaysOfCode #SDEJourney
