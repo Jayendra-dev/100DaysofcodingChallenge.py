@@ -1,4 +1,4 @@
-# fibonacci series using def
+#  print fibonacci series using def
 n=int(input("enter n:"))
 def fibonacci(n):
     a, b = 0, 1
